@@ -2,6 +2,7 @@
 
 A Python-based **Retrieval-Augmented Generation (RAG) pipeline** for summarizing PDFs using OpenAI embeddings and LLMs, with Qdrant as the vector store. This project allows you to query PDFs and get concise, structured answers based on retrieved content.
 
+test
 ---
 
 ## Features
