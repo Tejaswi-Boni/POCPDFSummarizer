@@ -16,6 +16,7 @@ A Python-based **Retrieval-Augmented Generation (RAG) pipeline** for summarizing
 
 ## Directory Structure
 
+```bash
 PDF-Summarizer/
 │
 ├─ data/ # Place PDF files here
@@ -23,7 +24,7 @@ PDF-Summarizer/
 ├─ main.py # Main RAG pipeline script
 ├─ requirements.txt # Python dependencies
 └─ README.md # Project documentation
-
+```
 
 ---
 
