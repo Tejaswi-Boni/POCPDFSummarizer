@@ -1,0 +1,7 @@
+langchain>=0.1.17
+qdrant-client
+openai
+pypdf
+python-dotenv
+flask
+-e .

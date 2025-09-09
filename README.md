@@ -72,3 +72,5 @@ The PDF Summarizer uses a **Retrieval-Augmented Generation (RAG) pipeline**. The
 
 6. **Answer + Sources**  
    Return a structured answer along with page and chunk references for traceability.
+
+   ![alt text](image.png)
